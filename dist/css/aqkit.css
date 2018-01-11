@@ -10,7 +10,7 @@
  */
 html {
   /* 1 */
-  font-family: monospace;
+  font-family: Proxima Nova, proxima-nova, Helvetica Neue, helvetica, arial, liberation sans, sans-serif;
   font-size: 16px;
   font-weight: normal;
   line-height: 1.5;
@@ -228,7 +228,7 @@ h5,
 h6,
 .aq-h6 {
   margin: 0 0 20px 0;
-  font-family: monospace;
+  font-family: Proxima Nova, proxima-nova, Helvetica Neue, helvetica, arial, liberation sans, sans-serif;
   font-weight: normal;
   color: #333;
   text-transform: none;
@@ -3840,7 +3840,7 @@ ul.aq-nav-sub {
   padding: 0 15px;
   /* 3 */
   font-size: 0.875rem;
-  font-family: monospace;
+  font-family: Proxima Nova, proxima-nova, Helvetica Neue, helvetica, arial, liberation sans, sans-serif;
   /* 4 */
   text-decoration: none;
 }
@@ -7787,7 +7787,7 @@ iframe.aq-cover {
  */
 .aq-logo {
   font-size: 1.5rem;
-  font-family: monospace;
+  font-family: Proxima Nova, proxima-nova, Helvetica Neue, helvetica, arial, liberation sans, sans-serif;
   color: #666;
   /* 1 */
   text-decoration: none;

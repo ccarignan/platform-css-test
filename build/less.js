@@ -39,9 +39,9 @@ glob.sync('custom/*.less').forEach(file => {
 
 });
 
-if (!rtl && (Object.keys(themes).length || !fs.existsSync('themes.json'))) {
-    util.write('themes.json', JSON.stringify(themes));
-}
+//if (!rtl && (Object.keys(themes).length || !fs.existsSync('themes.json'))) {
+//    util.write('themes.json', JSON.stringify(themes));
+//}
 
 function compile(file, dist) {
     return util.read(file).then(data =>

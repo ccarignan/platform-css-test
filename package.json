@@ -6,7 +6,8 @@
   "styles": "dist/css/aqkit.css",
   "scripts": {
     "compile": "node build/less && node build/build && npm run prefix",
-    "prefix": "node build/prefix -p aq"
+    "prefix": "node build/prefix -p aq",
+    "docs": "open http://localhost:4000/docs && bundle exec jekyll serve"
   },
   "repository": {
     "type": "git",
