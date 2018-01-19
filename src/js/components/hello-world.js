@@ -16,7 +16,7 @@ function plugin(UIkit) {
     methods: {
 
       shout() {
-        alert('hello world');
+        alert('this is dev hi world');
       }
 
     },

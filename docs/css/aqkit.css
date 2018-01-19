@@ -11743,3 +11743,6 @@ iframe.aq-cover {
   font-size: 13.37px;
   margin: 0 auto;
 }
+html {
+  background-color: lightblue;
+}

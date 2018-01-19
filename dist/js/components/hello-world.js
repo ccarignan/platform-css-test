@@ -28,7 +28,7 @@ function plugin(aqUIkit) {
     methods: {
 
       shout: function shout() {
-        alert('hello world');
+        alert('this is dev hi world');
       }
 
     },
